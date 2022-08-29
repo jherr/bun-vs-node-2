@@ -1,7 +1,7 @@
 {
   "name": "remix-ssr-bun",
   "scripts": {
-    "start": "bun run ./server.ts",
+    "start": "bun run ./server.ts --jsx-production",
     "build": "bun run node_modules/@remix-run/dev/dist/cli.js build",
     "dev:remix": "bun run node_modules/@remix-run/dev/dist/cli.js watch",
     "dev:server": "bun run ./server.ts dev",
