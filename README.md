@@ -11,3 +11,5 @@ Performance Combo Results
 | Astro + Deno + Preact | 11538 | 4 |
 | Astro + Deno + Solid-JS | 12337 | 4 |
 | Fresh (Deno + Preact) | 15716 | 3 |
+| Qwik | 5250 | 10 |
+
