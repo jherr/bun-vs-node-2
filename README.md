@@ -13,7 +13,7 @@ Performance Combo Results
 | Fresh (Deno + Preact) | 15716 | 3 |
 | Qwik | 5250 | 10 |
 
+<br/>
 
-<p align="center">
-    <img src="assets/Req-vs-Platform.png" alt="Graph showing Req/s for each platform" />
-</p>
+<img src="assets/Req-vs-Platform.png" alt="Graph showing Req/s for each platform" />
+
